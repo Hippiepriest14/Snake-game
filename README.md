@@ -1,2 +1,1 @@
-# Snake-game
- 
+Classic snake game done with OOP
